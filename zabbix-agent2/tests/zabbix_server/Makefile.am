@@ -1,0 +1,4 @@
+SUBDIRS = \
+	preprocessor \
+	service \
+	trapper
